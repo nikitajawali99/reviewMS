@@ -1,7 +1,6 @@
 package com.review.service;
 
 import java.util.List;
-
 import com.review.entity.Review;
 
 public interface ReviewService {
